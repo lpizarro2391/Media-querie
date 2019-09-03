@@ -7,3 +7,8 @@ h1{
   text-align: center;
 }
 }
+@media screen{
+  h1{
+    text-align: right;
+  }
+}

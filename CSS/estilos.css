@@ -12,3 +12,8 @@ h1{
     text-align: right;
   }
 }
+@media (max-width:420px){
+  p{
+    color:red;
+  }
+}

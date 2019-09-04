@@ -17,3 +17,9 @@ h1{
     color:red;
   }
 }
+
+@media (min-width:421px) and (max-width:720px) {
+  p{
+    color:blue;
+  }
+}
